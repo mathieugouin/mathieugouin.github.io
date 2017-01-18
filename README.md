@@ -1,5 +1,10 @@
-# Tests
-<https://guides.github.com/features/mastering-markdown>
+## Tests
+
+* <http://www.google.ca>
+* http://www.google.ca
+* www.google.ca
+* google.ca
+
 
 ## Welcome to GitHub Pages
 
