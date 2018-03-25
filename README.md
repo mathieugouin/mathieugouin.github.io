@@ -1,12 +1,3 @@
 # Mathieu Gouin
 
-Test
-
-## Link tests
-
-* <http://www.google.ca>
-* http://www.google.ca
-* www.google.ca
-* google.ca
-
-
+Raspberry Pi DVR: https://mathieugouin.github.io/rpiDvr/
